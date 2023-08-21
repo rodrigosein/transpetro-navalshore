@@ -1,5 +1,3 @@
-<script>
-
 
 function openCard1() {
   var cardOverlay = document.getElementById("cardOverlay1");
@@ -264,4 +262,4 @@ function closeCard26() {
 function voltar() {
     window.location.href = "https://rodrigosein.github.io/transpetro-navalshore/"; // Substitua pelo link desejado
   }
-</script>
+
