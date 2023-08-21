@@ -36,7 +36,8 @@
     }
     @media (max-width: 1081px) {
       .iframe-container {
-        padding-bottom: 170%; /* Proporção 16:9 */
+        padding-bottom: 115%;/* Proporção 16:9 */
+        padding-top: 55%;
       }
     }
     .meu-link {
