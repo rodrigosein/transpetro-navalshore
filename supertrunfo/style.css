@@ -643,7 +643,7 @@ padding: auto;
 
     @media only screen and (min-width: 415px) and (max-width: 819px) {
       .container {
-    grid-template-columns: repeat(auto-fit, minmax(208px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   }
       .titulo {
         width: auto;
